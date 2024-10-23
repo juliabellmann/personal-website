@@ -31,8 +31,6 @@ body {
 main {
     height: 100vh;
     display: flex;
-    flex-direction: column;
-    justify-content: space-around;
 
     margin: 10rem 15rem;    
 }
